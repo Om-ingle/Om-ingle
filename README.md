@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Om-ingle! 👋
 
-<!--
-**Om-ingle/Om-ingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/Om-ingle)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer with a keen interest in learning new technologies and solving real-world problems through code. I enjoy working on both front-end and back-end projects, and I'm always looking to collaborate on exciting open-source projects.
+
+## Skills
+
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks and Libraries**: React, Node.js, Express, Django
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Tools and Platforms**: Git, Docker, Kubernetes, AWS, Azure
+
+## Projects
+
+### [Project Name 1](https://github.com/Om-ingle/project-name-1)
+A brief description of what this project does and its purpose.
+
+### [Project Name 2](https://github.com/Om-ingle/project-name-2)
+A brief description of what this project does and its purpose.
+
+### [Project Name 3](https://github.com/Om-ingle/project-name-3)
+A brief description of what this project does and its purpose.
+
+## GitHub Stats
+
+![Om-ingle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om-ingle&show_icons=true&theme=radical)
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/om-ingle/)
+- [Twitter](https://twitter.com/om_ingle)
+- [Blog](https://om-ingle-blog.com)
+
+Feel free to reach out to me for collaboration or just to say hi! 😊
