@@ -15,10 +15,10 @@ I'm a passionate developer with a keen interest in learning new technologies and
 
 ## Projects
 
-### [Project Name 1](https://github.com/Om-ingle/project-name-1)
+### [Project Name 1]([https://github.com/Om-ingle/movie-recommend-system])
 A brief description of what this project does and its purpose.
 
-### [Project Name 2](https://github.com/Om-ingle/project-name-2)
+### [Project Name 2]([https://github.com/Om-ingle/project-name-2](https://github.com/Om-ingle/Self_learning_Bot))
 A brief description of what this project does and its purpose.
 
 ### [Project Name 3](https://github.com/Om-ingle/project-name-3)
