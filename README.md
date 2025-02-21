@@ -30,8 +30,8 @@ A brief description of what this project does and its purpose.
 
 ## Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/om-ingle/)
-- [Twitter](https://twitter.com/om_ingle)
-- [Blog](https://om-ingle-blog.com)
+- [LinkedIn](https://www.linkedin.com/in/om-ingle-55811028b/)
+- [Twitter(X)](https://x.com/Om_Ingle1)
+
 
 Feel free to reach out to me for collaboration or just to say hi! 😊
